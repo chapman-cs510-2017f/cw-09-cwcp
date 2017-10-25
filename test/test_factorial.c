@@ -1,3 +1,10 @@
+// # Name: Chelsea Parlett & Chris Watkins
+// # Student ID: 2298930 & 1450263
+// # Email: parlett@chapman.edu & watki115@mail.chapman.edu
+// # Course: CS510 Fall 2017
+// # Assignment: Classwork 9
+// ###
+
 #include <stdio.h>
 #include "minunit.h"
 #include "../src/factorial.h"
@@ -28,7 +35,7 @@ static char * test_fac_0() {
 }
 
 static char * test_fac_6() {
-    mu_assert("error, factorial(0) != 720", factorial(0) == 720);
+    mu_assert("error, factorial(6) != 720", factorial(6) == 720);
     return 0;
 }
 /* all_tests collects a set of tests defined above, and runs them
