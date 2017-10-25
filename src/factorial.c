@@ -13,8 +13,10 @@ int factorial(int n) {
     /* By convention in C, all local variables must be type-defined at the top
      * of each function. This includes all iteration dummy variables. */
     int fac = n;
-    
-    while (n > 0) {
+    if (fac == 0) {
+        return 1;
+    }
+    while (n > 1) {
         /* Note: The shorthand syntax
          * var-- reads the contents of an integer variable, then decrements
          * --var decrements the contents of an integer variable, then reads it
@@ -29,3 +31,4 @@ int factorial(int n) {
      */
     return fac;
 }
+
