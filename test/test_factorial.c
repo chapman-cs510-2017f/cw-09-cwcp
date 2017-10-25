@@ -43,6 +43,7 @@ static char * test_fac_6() {
 static char * all_tests() {
     mu_run_test(test_fac_5);
     mu_run_test(test_fac_0);
+    mu_run_test(test_fac_6);
     return 0;
 }
 
