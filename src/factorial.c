@@ -16,7 +16,6 @@
 /* Definition for "factorial"
  * Note: the type must match the type specified within the header file above
  */
-int main(int){
 int factorial(int n) {
     /* By convention in C, all local variables must be type-defined at the top
      * of each function. This includes all iteration dummy variables. */
@@ -39,5 +38,5 @@ int factorial(int n) {
      */
     return fac;
 
-}}
+}
 
