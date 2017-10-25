@@ -1,6 +1,6 @@
 # CS510 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Chelsea Parlett-Pelleiriti  and Chris Watkins**
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME)
 
@@ -40,7 +40,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This was a lot more difficult since I use python everyday, but have only RARELY used C#. We learned a  lot more by running the c programs and seeing the errors than by just  reading tutorials on C. It was  helpful to start to learn the output of error messages in C. We don't feel as lost a s we thought we would, but  it was a bit of the blind leading the blind at first. We jut had to go off intuition at some points.**
 
 ## Honor Pledge
 
@@ -51,4 +51,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Chelsea Parlett-Pelleriti and Christ Watkins**
