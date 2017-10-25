@@ -1,9 +1,9 @@
-# Name: Chelsea Parlett & Chris Watkins
-# Student ID: 2298930 & 1450263
-# Email: parlett@chapman.edu & watki115@mail.chapman.edu
-# Course: CS510 Fall 2017
-# Assignment: Classwork 4
-###
+// # Name: Chelsea Parlett & Chris Watkins
+// # Student ID: 2298930 & 1450263
+// # Email: parlett@chapman.edu & watki115@mail.chapman.edu
+// # Course: CS510 Fall 2017
+// # Assignment: Classwork 9
+// ###
 
 /* An include literally copies and pastes the contents of the indicated file.
  * A .h file is called a "header" file for the code.
